@@ -8,4 +8,4 @@ export const UserType = new GraphQLObjectType({
         username: { type: GraphQLString },
         password: { type: GraphQLString }
     })
-})
+});
